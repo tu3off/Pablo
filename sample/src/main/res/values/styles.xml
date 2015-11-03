@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="SampleWidget" />
+
+    <style name="SampleWidget.Toolbar" parent="Base.ThemeOverlay.AppCompat.Dark.ActionBar">
+    </style>
+
+</resources>

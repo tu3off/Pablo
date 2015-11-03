@@ -79,5 +79,9 @@ public abstract class VHAdapter<T, VH extends VHAdapter.ViewHolder> extends Base
     }
 
     public static abstract class ViewHolder {
+
+        public ViewHolder(View inflatedView) {
+        }
+
     }
 }
