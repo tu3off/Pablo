@@ -1,7 +1,1 @@
-<manifest
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ua.com.tu3off.pablo">
-
-    <application android:allowBackup="false" />
-
-</manifest>
+<manifest package="ua.com.tu3off.pablo" />

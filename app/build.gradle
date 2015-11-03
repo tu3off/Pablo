@@ -27,7 +27,7 @@ dependencies {
 publish {
     groupId = 'com.github.tu3off'
     artifactId = 'pablo'
-    publishVersion = '1.0.0'
+    publishVersion = '1.0.3'
     desc = 'A  small library which contains base functional for a Android ListView adapter.'
     licences = ['MIT']
     website = 'https://github.com/tu3off/Pablo'
